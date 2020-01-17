@@ -1,0 +1,44 @@
+.warna{
+    background-color: red;
+}
+.logo{
+    width: 200px;
+}
+.header{
+    background-color: red;
+    height: 70px;
+}
+.toggler{
+    background-color:transparent;
+    
+}
+.sliderimage{
+    margin-top: 50px;
+}
+.slider{
+    background-color: rgb(186,3,2);
+    height: 700px;
+    margin-top: 50px;
+}
+.slide{
+    padding-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    height: 600px;
+    width: 650px;
+}
+.notive{
+    margin-top: 20px;
+    font-size: 24px;
+}
+.danger{
+    background-color: rgb(186,3,2) !important;
+
+}
+
+@media only screen and (max-width: 480px){
+    .slider{
+        background-color: rgb(186,3,2);
+        height: 80px;
+    }
+}
